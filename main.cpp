@@ -5,10 +5,15 @@
 
 #include "Ejercicio1/identificacion.h"
 #include "Ejercicio2/dias.h"
+#include "Ejercicio3/calificaciones.h"
 
 int main() {
     identificacion ();
     dias ();
+    calificaciones();
+
+
+
     return 0;
 
 
