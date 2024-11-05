@@ -6,11 +6,13 @@
 #include "Ejercicio1/identificacion.h"
 #include "Ejercicio2/dias.h"
 #include "Ejercicio3/calificaciones.h"
+#include "Ejercicio4/promocion.h"
 
 int main() {
     identificacion ();
     dias ();
     calificaciones();
+    promocion();
 
 
 
